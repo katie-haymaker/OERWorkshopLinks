@@ -3,40 +3,49 @@
     <!--<p> <url href="https://pretextbook.org" visual="pretextbook.org">PreTeXt</url> </p> -->
     
 <p>Collection of useful links from the AIM Workshop <emph>Open educational resources: adoption, curation, and customization </emph> </p>
-
-
-    <p><url href="https://discrete.openmathbooks.org/dmoi4.html"> Discrete Open Math (textbook)</url></p>
-    <p>
-      <url href="https://understandinglinearalgebra.org/home.html"> Understanding Linear Algebra (textbook) </url>
-    </p>
-    <p>
-      <url href="https://tienchih.github.io/interactiveelements/section-1.html"> Tien Chih Github </url>
-    </p>
-    <p>
-      <url href="https://prefigure.org/docs/sec-math.html"> Prefigure documentation </url>
-    </p>
-    <p>
-      <url href="https://github.com/Tanaquil18/matrixtheory"> Matrix Theory (textbook) Github </url>
-    </p>
-    <p>
-      <url href="https://www.doenet.org/"> doenet.org </url>
-    </p>
+<dl>
+  <li><title>PreTeXt Resources</title>
     <p>
       <url href="https://pretextbook.org/doc/guide/html/web-hosting.html" > PreTeXt documentation for web hosting </url>
-    </p>
-    <p>
-      <url href="https://webwork.maa.org/wiki/Open_Problem_Library"> WebWork Open Problem Library </url>
-    </p>
-    <p>
-      <url href="https://runestone.academy/ns/books/index" > Runestone Academy </url>
     </p>
     <p>
       <url href="https://mathtech.org/pfi/meta-frontmatter.html" > PreTeXt for Instructors </url>
     </p>
     <p>
+      <url href="https://g4m.code4math.org/g4m.html"> GitHub for Mathematicians </url>
+    </p>
+    <p>
       <url href="https://pretextbook.org/examples/sample-article/annotated/section-interesting-corollary.html"> Annotated example </url>
     </p>
     <p>
+      <url href="https://github.com/pretextbook/pretext-codespace"> PreTeXt codespace (GitHub) </url>
+    </p>
+        <p>
+      <url href="https://pretextbook.org/examples.html"> PreTeXt Examples from documentation </url>
+    </p>
+    <p>
+      <url href="https://pretextbook.org/examples/sample-article/annotated/section-interactive-exercises.html">  Interactive Exercises </url>
+    </p>
+  </li>
+  <li>
+    <title>Textbook Links</title>
+    <p><url href="https://discrete.openmathbooks.org/dmoi4.html"> Discrete Open Math (textbook)</url></p>
+    <p>
+      <url href="https://understandinglinearalgebra.org/home.html"> Understanding Linear Algebra (textbook) </url>
+    </p>
+        <p>
+      <url href="https://github.com/Tanaquil18/matrixtheory"> Matrix Theory (textbook) Github </url>
+    </p>
+        <p>
+      <url href="https://library.tbil.org/2024/linear-algebra/GT1.html"> Linear Algebra for Team Based Inquiry Learning </url>
+    </p>
+  </li>
+  <li>
+    <title>PreFigure</title>
+    <p>
+      <url href="https://prefigure.org/docs/sec-math.html"> Prefigure documentation </url>
+    </p>
+        <p>
       <url href="https://davidaustinm.github.io/prefigure/"> PreFigure Playground </url>
     </p>
     <p>
@@ -45,33 +54,24 @@
     <p>
       <url href="https://github.com/davidaustinm/prefigure-codespace"> PreFigure codespace (github) </url>
     </p>
+  </li>
+  <li> <title>Doenet</title>
     <p>
-      <url href="https://library.tbil.org/2024/linear-algebra/GT1.html"> Linear Algebra for Team Based Inquiry Learning </url>
-    </p>
-    <p>
-      <url href="https://g4m.code4math.org/g4m.html"> GitHub for Mathematicians </url>
-    </p>
-    <p>
-      <url href="https://sagecell.sagemath.org/"> Sage Cell Server </url>
-    </p>
-
-    <p>
-      <url href="https://github.com/pretextbook/pretext-codespace"> PreTeXt codespace (GitHub) </url>
-    </p>
-    <p>
-      <url href="https://library.tbil.org/2024/linear-algebra/MX4.html"> TBIL Examples </url>
-    </p>
-    <p>
-      <url href="https://github.com/mitchkeller/syllabus-worksheet-demo"> Syllabus worksheet demo (GitHub) </url>
-    </p>
-    <p>
-      <url href="https://math.mitchkeller.phd/syllabus-worksheet-demo/"> Syllabus Worksheet demo (Website) </url>
-    </p>
-    <p>
-      <url href="https://pretextbook.org/examples.html"> PreTeXt Examples from documentation </url>
+      <url href="https://www.doenet.org/"> doenet.org </url>
     </p>
     <p>
       <url href="https://alpha.doenet.org/"> Doenet (alpha site) </url>
+    </p>
+        <p> 
+        <url href="https://anuragkatyal.github.io/Doenet-is-cool/doenet-is-cool.html"> Doenet Examples </url>
+    </p>
+    <p>
+      <url href="https://docs.doenet.org/tutorials/embedInPretext"> Embed Doenet </url>
+    </p>
+  </li>
+  <li> <title>Problem builders</title>
+    <p>
+      <url href="https://webwork.maa.org/wiki/Open_Problem_Library"> WebWork Open Problem Library </url>
     </p>
     <p>
       <url href="https://www.geogebra.org/"> GeoGebra </url>
@@ -79,16 +79,7 @@
     <p>
       <url href="https://www.desmos.com/"> Desmos </url>
     </p>
-    <p>
-      <url href="https://pretextbook.org/examples/sample-article/annotated/section-interactive-exercises.html">  Interactive Exercises </url>
-    </p>
-    <p> 
-        <url href="https://anuragkatyal.github.io/Doenet-is-cool/doenet-is-cool.html"> Doenet Examples </url>
-    </p>
-    <p>
-      <url href="https://docs.doenet.org/tutorials/embedInPretext"> Embed Doenet </url>
-    </p>
-    <p>
+        <p>
       <url href="https://www.myopenmath.com/"> MyOpenMath </url>
     </p>
     <p>
@@ -100,4 +91,55 @@
     <p>
       <url href="https://c3d.libretexts.org/CalcPlot3D/CalcPlot3D-Help/front.html"> CalcPlot3D (Documentation) </url>
     </p>
+  </li>
+  <li><title>Runestone Academy</title>
+    <p>
+      <url href="https://runestone.academy/ns/books/index" > Runestone Academy </url>
+    </p>
+  </li>
+  <li><title>Example Files</title>
+    <p>
+      <url href="https://library.tbil.org/2024/linear-algebra/MX4.html"> TBIL Examples </url>
+    </p>
+    <p>
+      <url href="https://github.com/mitchkeller/syllabus-worksheet-demo"> Syllabus worksheet demo (GitHub) </url>
+    </p>
+    <p>
+      <url href="https://math.mitchkeller.phd/syllabus-worksheet-demo/"> Syllabus Worksheet demo (Website) </url>
+    </p>
+    <p>
+      <url href="https://tienchih.github.io/interactiveelements/section-1.html"> Tien Chih Github </url>
+    </p>
+  </li>
+  <li><title>Miscellaneous</title>
+    <p>
+      <url href="https://sagecell.sagemath.org/"> Sage Cell Server </url>
+    </p>
+  </li>
+</dl>
+
+    
+
+    
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </introduction>
