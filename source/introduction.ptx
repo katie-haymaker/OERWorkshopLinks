@@ -116,10 +116,16 @@
   </li>
   <li><title>Miscellaneous</title>
     <p>
-      <url href="https://sagecell.sagemath.org/"> Sage Cell Server </url>
+      <url href="https://sagecell.sagemath.org/"> Sage Cell Server  </url>
     </p>
     <p>
       <url href="https://mathtech.org/" > MathTech.org  </url>
+    </p>
+    <p>
+      <url href="https://code.visualstudio.com/"> Visual Studio Code </url>
+    </p>
+    <p>
+      <url href="https://desktop.github.com/download/"> GitHub Desktop </url>
     </p>
   </li>
 </dl>
