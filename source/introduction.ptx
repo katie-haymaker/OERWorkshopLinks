@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <introduction xml:id="intro" xmlns:xi="http://www.w3.org/2001/XInclude">
     <!--<p> <url href="https://pretextbook.org" visual="pretextbook.org">PreTeXt</url> </p> -->
-     <introduction>
+    
     <p><url href="https://discrete.openmathbooks.org/dmoi4.html"> Discrete Open Math (textbook)</url></p>
     <p>
       <url href="https://understandinglinearalgebra.org/home.html"> Understanding Linear Algebra (textbook) </url>
@@ -79,5 +79,7 @@
     <p>
       <url href="https://pretextbook.org/examples/sample-article/annotated/section-interactive-exercises.html">  Interactive Exercises </url>
     </p>
-  </introduction>
+    <p>
+        <url href="https://anuragkatyal.github.io/Doenet-is-cool/doenet-is-cool.html"> Doenet Examples </url>
+    </p>
 </introduction>
