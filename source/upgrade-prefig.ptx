@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="upgrade-prefig-file" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Updating Prefig</title>
+  <introduction>
+    <p>
+      PreFigure needs to be updated to the latest version of the prefig library. This is a simple process, but it does require some manual steps.
+    </p>
+  </introduction>
+  
+</section>
