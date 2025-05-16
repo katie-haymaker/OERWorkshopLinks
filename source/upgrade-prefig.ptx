@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<section xml:id="upgrade-prefig-file" xmlns:xi="http://www.w3.org/2001/XInclude">
+<introduction xml:id="upgrade-prefig-file" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Updating Prefig</title>
   <introduction>
     <p>
       PreFigure needs to be updated to the latest version of the prefig library. This is a simple process, but it does require some manual steps.
     </p>
   </introduction>
-  
-</section>
+  <figure xml:id="step-1">
+    <image source="prefig1.png" width="80%" />
+
+    <caption>macOS command line upgrade of PreFigure</caption>
+  </figure>
+  <figure xml:id="step-2">
+    <image source="prefig2.png" width="80%" />
+
+    <caption>Force PreFigure to regenerate assets</caption>
+  </figure>
+</introduction>

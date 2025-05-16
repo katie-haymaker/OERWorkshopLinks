@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<introduction xml:id="intro" xmlns:xi="http://www.w3.org/2001/XInclude" label="links">
+
+
+<article xml:id="intro" xmlns:xi="http://www.w3.org/2001/XInclude" label="links">
     <!--<p> <url href="https://pretextbook.org" visual="pretextbook.org">PreTeXt</url> </p> -->
     
 <p>Collection of useful links from the AIM Workshop <term>Open educational resources: adoption, curation, and customization </term> </p>
+
+
+
+
 <dl>
   <li><title>PreTeXt Resources</title>
     <p>
@@ -127,12 +133,45 @@
     <p>
       <url href="https://desktop.github.com/download/"> GitHub Desktop </url>
     </p>
+    
   </li>
+  <li><title>PreFigure Upgrade</title>
+    <p>
+      PreFigure needs to be updated to the latest version of the prefig library. This is a simple process, but it does require some manual steps. 
+    </p>
+    <figure xml:id="step-1">
+      <image source="prefig1.png" width="80%" />
+  
+      <caption>macOS command line upgrade of PreFigure</caption>
+    </figure>
+    <figure xml:id="step-2">
+      <image source="prefig2.png" width="80%" />
+  
+      <caption>Force PreFigure to regenerate assets</caption>
+    </figure>
+    </li>
+    <li><title>Upgrade PreTeXt</title>
+      <figure xml:id="pretext1">
+        <image source="pretext1.png" width="80%" />
+         
+        <caption>Upgrade option 1</caption>
+      </figure>
+      <figure xml:id="pretext2">
+        <image source="pretext2.png" width="80%" />
+          
+      
+        <caption>Upgrade option 2</caption>
+      </figure>
+      <figure xml:id="pretext3">
+        <image source="pretext3.png" width="80%" />
+         
+        
+        <caption>Update</caption>
+      </figure>
+    </li>
 </dl>
 
 
-
-
     
 
     
@@ -157,4 +196,4 @@
 
 
 
-</introduction>
+</article>
