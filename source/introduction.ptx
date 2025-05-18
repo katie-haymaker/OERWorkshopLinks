@@ -35,6 +35,15 @@
     <p>
       <url href="https://pretextbook.org/doc/guide/html/publication-file-reference.html"> Publication file reference </url>
     </p>
+    <p>
+      <url href="https://pretextbook.org/doc/guide/html/interactive-exercises.html"> PreTeXt support (google groups) </url>
+    </p>
+    <p>
+      <url href="https://groups.google.com/g/pretext-support"> PreTeXt announce (google groups) </url>
+    </p>
+    <p>
+      <url href="https://groups.google.com/g/pretext-dev"> PreTeXt dev (google groups) </url>
+    </p>
   </li>
   <li>
     <title>Textbook Links</title>
@@ -77,6 +86,10 @@
     <p>
       <url href="https://docs.doenet.org/tutorials/embedInPretext"> Embed Doenet </url>
     </p>
+    <p>
+      <url href="https://discord.gg/3pVWQtf9rt"> PROSE Consortium Discord </url>
+    </p>
+    
   </li>
   <li> <title>Problem builders</title>
     <p>
@@ -128,10 +141,16 @@
       <url href="https://mathtech.org/" > MathTech.org  </url>
     </p>
     <p>
+      <url href="https://bsky.app/profile/mathtech.org"> MathTech Bluesky </url>
+    </p>
+    <p>
       <url href="https://code.visualstudio.com/"> Visual Studio Code </url>
     </p>
     <p>
       <url href="https://desktop.github.com/download/"> GitHub Desktop </url>
+    </p>
+    <p>
+      <url href="https://docs.google.com/document/d/1kJb28UPQmUdbGs7ISxtoZ_-eunbrrlyIQeXqmZmBYKw/edit?tab=t.0"> Workshop Notes  </url>
     </p>
     
   </li>
